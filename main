@@ -1,1 +1,1 @@
-main
+sudo yum install maven -y
